@@ -1,3 +1,3 @@
-module main
+module datacenter
 
 go 1.19
